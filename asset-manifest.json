@@ -1,28 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.eea256fd.chunk.css",
-    "main.js": "/static/js/main.41ec8b75.chunk.js",
-    "main.js.map": "/static/js/main.41ec8b75.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d0252265.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d0252265.js.map",
-    "static/js/2.cdfca677.chunk.js": "/static/js/2.cdfca677.chunk.js",
-    "static/js/2.cdfca677.chunk.js.map": "/static/js/2.cdfca677.chunk.js.map",
+    "main.css": "/static/css/main.4536600d.css",
+    "main.js": "/static/js/main.f43e27d7.js",
+    "static/js/787.25cf85f9.chunk.js": "/static/js/787.25cf85f9.chunk.js",
+    "static/media/doctors.svg": "/static/media/doctors.ec44ce3aed1b6985a1b943d2b089b2c4.svg",
+    "static/media/logo-white.png": "/static/media/logo-white.128b2c0aa5c50ed57fcc.png",
+    "static/media/logo.png": "/static/media/logo.10756eca02640ea0754e.png",
+    "static/media/reports.svg": "/static/media/reports.3ad54acfda7136f683b95848ae14888d.svg",
+    "static/media/integration.svg": "/static/media/integration.a947a5b53a710045a296e950f94a8834.svg",
+    "static/media/online_reports.svg": "/static/media/online_reports.f3f26f96436d2a1727f9f19e29676907.svg",
     "index.html": "/index.html",
-    "precache-manifest.9ab3b730ecb3dab1240ae9d127256305.js": "/precache-manifest.9ab3b730ecb3dab1240ae9d127256305.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.eea256fd.chunk.css.map": "/static/css/main.eea256fd.chunk.css.map",
-    "static/js/2.cdfca677.chunk.js.LICENSE.txt": "/static/js/2.cdfca677.chunk.js.LICENSE.txt",
-    "static/media/doctors.svg": "/static/media/doctors.a8ece86e.svg",
-    "static/media/integration.svg": "/static/media/integration.9df168ab.svg",
-    "static/media/logo.png": "/static/media/logo.bcbb0122.png",
-    "static/media/logo_white.png": "/static/media/logo_white.363aa335.png",
-    "static/media/online_reports.svg": "/static/media/online_reports.bf19cd2a.svg",
-    "static/media/reports.svg": "/static/media/reports.c00b79ac.svg"
+    "main.4536600d.css.map": "/static/css/main.4536600d.css.map",
+    "main.f43e27d7.js.map": "/static/js/main.f43e27d7.js.map",
+    "787.25cf85f9.chunk.js.map": "/static/js/787.25cf85f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0252265.js",
-    "static/js/2.cdfca677.chunk.js",
-    "static/css/main.eea256fd.chunk.css",
-    "static/js/main.41ec8b75.chunk.js"
+    "static/css/main.4536600d.css",
+    "static/js/main.f43e27d7.js"
   ]
 }
